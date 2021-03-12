@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @om-prakash-sharma
+- 👋 Hi, I’m Om Prakash Sharma
 - 👀 I’m interested in JavaScript, NodeJs, ReactJS, AngularJs, EmberJs, Spring Boot and Android apps development.
 - 🌱 I’m currently learning NodeJS
 
