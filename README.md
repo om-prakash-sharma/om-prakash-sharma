@@ -59,7 +59,7 @@
 ---
 
 ### 📫 Connect with Me
-* 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/om-prakash-sharma-b73582b9)
+* 💼 LinkedIn: [Om Prakash Sharma](https://www.linkedin.com/in/om-prakash-sharma-b73582b9)
 * ✉️ Email: om.sharma@outlook.in
 
 <!---
