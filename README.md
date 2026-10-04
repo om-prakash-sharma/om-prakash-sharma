@@ -13,7 +13,7 @@
 ---
 
 ### 👨‍💻 About Me
-* 🔭 I specialize in architecting and scaling **Enterprise SaaS, Sports Tech Platforms, Cybersecurity Products, and SAP-integrated In-House Portals**.
+* 🔭 I specialize in architecting and scaling **Enterprise SaaS Platforms, Cybersecurity Products, and SAP-integrated In-House Portals**.
 * 💼 Currently driving technical execution, product architecture, and engineering teams at **JioStar India Pvt. Ltd.** as a **Engineering Manager**.
 * ⚡ Experienced in owning complete software development lifecycles (SDLC)—from business requirement gathering (BU) to On-Prem/Cloud infrastructure and production deployment.
 
