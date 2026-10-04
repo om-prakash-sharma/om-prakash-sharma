@@ -4,7 +4,6 @@
 ### **Technical Lead & Full Stack Architect** 🚀
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=om-prakash-sharma&color=blue&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Experience-11%2B%20Years-orange?style=flat-square" alt="Experience" />
   <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-success?style=flat-square" alt="Status" />
 </p>
